@@ -2,6 +2,8 @@
 // @name         Fuck Anti-debugger
 // @namespace    https://omn.cc/
 // @version      1.1
+// @updateURL    https://raw.githubusercontent.com/KawaiiSh1zuku/fuck-anti-debugger/main/index.js
+// @downloadURL  https://raw.githubusercontent.com/KawaiiSh1zuku/fuck-anti-debugger/main/index.js
 // @description  Fuck most anti-debuggers which try to interrupt your intrusion.
 // @author       Sh1zuku
 // @match        *
